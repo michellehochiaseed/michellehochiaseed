@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact: **I love eating seafood but i have seafood allergy**
 
+- Link to my e-Portfolio: [E-portfolio](https://michellehochiaseed.github.io/MICHELLE-EPORTFOLIO/ "E-portfolio")
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/michelle ho chia xin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="michelle ho chia xin" height="30" width="40" /></a>
